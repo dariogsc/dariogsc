@@ -8,7 +8,7 @@ I love solving problems with data and constantly learning new technologies. Thro
 ## What Am I Up To?
 Currently, I’m working as an **IT Engineer** at the Pontifical Catholic University of Chile. I’m part of the **Data Architecture** team, where I help manage quick and urgent data requests, making sure everything is in order. I’m also deeply involved in projects related to **data migration** and advanced data analysis using data cubes (sounds tricky, but it’s super fun when you do it with Python 😉).
 
-Before this, I led an exciting project where we implemented a platform for PhD competitions using **No Code** technologies. It was amazing to see how we optimized processes without writing a single line of code!
+Before this, I supported an exciting project where we implemented a platform for PhD competitions using No Code technologies. It was amazing to see how we optimized processes without writing a single line of code!
 
 ## What I’m Passionate About
 - **Machine Learning**: There’s nothing like teaching a machine to learn by itself. 🤖
