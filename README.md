@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Darío Saavedra Contreras
+![GitHub Banner](./assets/github-header.png)
 
 ## About Me
 Hey there! I’m a **Civil Engineer in Metallurgy** from the University of Santiago, Chile. Over time, my passion shifted towards the fascinating world of **Data Science** and **Machine Learning**. I'm currently in the final stretch of my **Master’s in Data Science** at the Pontifical Catholic University of Chile. 🎓
