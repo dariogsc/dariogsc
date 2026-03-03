@@ -1,22 +1,39 @@
 ![GitHub Banner](./assets/github-header-v2.png)
 
 ## About Me
-Hey there! I’m a **Civil Engineer in Metallurgy** from the University of Santiago, Chile. Over time, my passion shifted towards the fascinating world of **Data Science** and **Machine Learning**. I hold a **Master’s degree in Data Science** from the Pontifical Catholic University of Chile, where I strengthened my expertise in statistical modeling, machine learning, and data-driven decision making.
+Hi! I’m a **Civil Engineer in Metallurgy** with a strong transition into **Data Science and Machine Learning**. I hold a **Master’s degree in Data Science** from the Pontifical Catholic University of Chile, where I strengthened my expertise in statistical modeling, machine learning, and data-driven decision-making.
 
-I love solving problems with data and constantly learning new technologies. Throughout my career, I’ve had the chance to work in various fields, from teaching to career management, and now in **Digital Transformation**. My favorite tools lately? Definitely **Python** and **SQL**! 🐍💻
+I specialize in bridging business needs with scalable data solutions, combining analytical thinking, engineering practices, and governance principles.
 
-## What Am I Up To?
-Currently, I’m working as an **IT Engineer** at the Pontifical Catholic University of Chile. I’m part of the **Data Architecture** team, where I help manage quick and urgent data requests, making sure everything is in order. I’m also deeply involved in projects related to **data migration** and advanced data analysis using data cubes (sounds tricky, but it’s super fun when you do it with Python 😉).
+---
 
-Before this, I supported an exciting project where we implemented a platform for PhD competitions using No Code technologies. It was amazing to see how we optimized processes without writing a single line of code!
+## What I Do
+Currently, I work as an **IT Engineer** at the Pontifical Catholic University of Chile, as part of the **Data Governance** team.
 
-## What I’m Passionate About
-- **Machine Learning**: There’s nothing like teaching a machine to learn by itself. 🤖
-- **Data Analysis**: Numbers tell stories... you just have to know how to listen to them.
-- **Python**: My go-to language for almost everything.
-- **SQL**: The backbone of my databases.
-- **No Code**: Because sometimes simplicity is the most powerful thing.
+My work involves:
+
+- Developing and maintaining data workflows in **Databricks**
+- Implementing the **Medallion Architecture (Bronze, Silver, Gold)** for structured and scalable data pipelines
+- Building curated **Gold-layer data products** designed for analytics and decision-making
+- Performing **data migration** initiatives across institutional systems
+- Designing and executing **data quality (QA) validations**
+- Defining and supporting **data governance standards**, including data definitions, consistency rules, and quality controls
+- Managing high-priority data requests with accuracy and reliability
+
+Previously, I contributed to the implementation of a PhD competition platform using **No Code technologies**, optimizing administrative processes and reducing operational friction.
+
+---
+
+## Technical Interests
+- **Machine Learning & Predictive Modeling**
+- **Data Engineering & Scalable Pipelines**
+- **Databricks & Lakehouse Architecture**
+- **Python (pandas, PySpark, scikit-learn)**
+- **SQL & Data Modeling**
+- **Data Governance & Data Quality**
+- **Process Optimization (No Code / Low Code tools)**
+
+---
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/dar%C3%ADo-gonzalo-saavedra-contreras-1b089113a/)
-
