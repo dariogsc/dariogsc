@@ -1,7 +1,7 @@
 ![GitHub Banner](./assets/github-header-v2.png)
 
 ## About Me
-Hey there! I’m a **Civil Engineer in Metallurgy** from the University of Santiago, Chile. Over time, my passion shifted towards the fascinating world of **Data Science** and **Machine Learning**. I'm currently in the final stretch of my **Master’s in Data Science** at the Pontifical Catholic University of Chile. 🎓
+Hey there! I’m a **Civil Engineer in Metallurgy** from the University of Santiago, Chile. Over time, my passion shifted towards the fascinating world of **Data Science** and **Machine Learning**. I hold a **Master’s degree in Data Science** from the Pontifical Catholic University of Chile, where I strengthened my expertise in statistical modeling, machine learning, and data-driven decision making.
 
 I love solving problems with data and constantly learning new technologies. Throughout my career, I’ve had the chance to work in various fields, from teaching to career management, and now in **Digital Transformation**. My favorite tools lately? Definitely **Python** and **SQL**! 🐍💻
 
